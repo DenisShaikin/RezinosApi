@@ -1,0 +1,9 @@
+venv/ 
+.idea/ 
+__pycache__/ 
+app/__pycache__/ 
+app/api/__pycache__/ 
+migrations/
+*.db
+
+
